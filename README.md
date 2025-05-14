@@ -1,2 +1,2 @@
-# Est-gio-IA-Logic
-Repositório de Estágio na Empresa Logic
+# Est-gio-IA-Lógic
+Repositório de Estágio na Empresa Lógic Digital
